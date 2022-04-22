@@ -7,4 +7,4 @@ Mi horizonte a largo plazo es poder enriquecer todo proyecto tecnológico del cu
 - :muscle: Actualmente trabajo en proyectos personales que involucren a Java como lenguaje principal.
 - :computer: Me encuentro en constante aprendizaje de manera autodidacta.
 - :man_student: Ademas realizo el ulitmo año de la carrera Desarrollo de software.
-- :department_store: Me encanta crear y emprender. ¡No lo puedo detener!.
+- :department_store: Me encanta crear y emprender. ¡No me puedo detener!.

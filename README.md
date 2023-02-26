@@ -5,7 +5,7 @@ Este espacio es testigo de mis esfuerzos por convertirme en un profesional IT, e
 Actualmente me desempeño como Analista funcional y en paralelo desarrollo proyectos con Java (Aplicaciones de escritorio y APIs REST) gestionando un stack tecnológico orientado mas bien al back-end, aunque también se utilizar tecnologías del front-end como lo es HTML, CSS y JavasScript.<br>
 Mi horizonte a largo plazo es poder enriquecer todo proyecto tecnológico del cual sea parte o responsable, sin dejar de seguir creciendo profesionalmente.
 
-- :muscle: Me desempeño como Analista funcional, siendo responsable del relevamiento y verificación de los requerimientos del sistema de software.
+- :muscle: Me desempeño como Analista funcional, siendo responsable del relevamiento y verificación de los requerimientos de un sistema.
 - :computer: Me encuentro en constante capacitación tanto en desarrollo como en análisis funcional y/o de negocio.
 - :man_student: Trabajo en proyectos personales que involucren a Java como lenguaje principal de desarollo (Aplicaciones de escritorio y APIs REST).
 - :department_store: Me encanta crear y emprender. ¡No me puedo detener!.
